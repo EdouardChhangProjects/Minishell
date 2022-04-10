@@ -3,4 +3,4 @@ Création d'un shell basique. Peut lancer des exécutables, y compris ceux acces
 Gestion basique d'erreurs
 
 USAGE
-  ./minishell1
+    ./minishell1
