@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "my_linked_list.h": "c",
+        "unistd.h": "c"
+    }
+}
